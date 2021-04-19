@@ -4,3 +4,6 @@ This repository contains implementations of basic machine learning algorithms in
 
 - [Bayesian Linear Regression](bayesian_linear_regression.ipynb)
 - [Support vector machines](support_vector_machines.ipynb)
+
+
+The original repository containing many more ML algorithms [can be found here](https://github.com/zotroneneis/machine_learning_basics).
